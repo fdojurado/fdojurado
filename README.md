@@ -6,8 +6,8 @@
 
 - 💼 _Postdoctoral researcher at [Technical University of Denmark (DTU)](https://www.dtu.dk/english)_
 - 💬 _Ask me about anything, I'm happy to help!_
-- ℹ️ More about me in my personal [website](https://people.compute.dtu.dk/ffjla/).
-- 📫 You can reach me at my email in my website.
+- ℹ️ _More about me in my personal [website](https://people.compute.dtu.dk/ffjla/)._
+- 📫 _You can reach me at my email in my website._
 
 
 <!--
