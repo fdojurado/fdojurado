@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Fernando!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fdojurado.fdojurado)
+
+**About me**
+
+- 💼 Postdoctoral researcher at [Technical University of Denmark (DTU)](https://www.dtu.dk/english)
+
 
 <!--
 **fdojurado/fdojurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
