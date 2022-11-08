@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Fernando!
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-fdojurado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fdojurado/)](https://www.linkedin.com/in/fdojurado/)
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/fdojurado?style=social)](https://twitter.com/fdojurado)
+[![Linkedin: fdojurado](https://img.shields.io/badge/-fdojurado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fdojurado/)](https://www.linkedin.com/in/fdojurado/)
+[![Twitter: fdojurado](https://img.shields.io/twitter/follow/fdojurado?style=social)](https://twitter.com/fdojurado)
+[![Website: fdojurado](https://img.shields.io/badge/-fdojurado-grey?style=sociale&logoColor=white&logo=googlechrome&link=https://people.compute.dtu.dk/ffjla/)](https://people.compute.dtu.dk/ffjla/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fdojurado.fdojurado)
 <!-- [![GitHub fdojurado](https://img.shields.io/github/followers/fdojurado?label=follow&style=social)](https://github.com/fdojurado) -->
 
