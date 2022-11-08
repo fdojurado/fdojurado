@@ -2,9 +2,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fdojurado.fdojurado)
 
-**About me**
+## 📖 About Me
 
-- 💼 Postdoctoral researcher at [Technical University of Denmark (DTU)](https://www.dtu.dk/english)
+- 💼 _Postdoctoral researcher at [Technical University of Denmark (DTU)](https://www.dtu.dk/english)_
+- 💬 _Ask me about anything, I'm happy to help!_
+- ℹ️ More about me in my personal [website](https://people.compute.dtu.dk/ffjla/).
+- 📫 You can reach me at my email in my website.
 
 
 <!--
