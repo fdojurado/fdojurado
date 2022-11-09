@@ -6,8 +6,8 @@
 ## 📖 About Me
 
 - 💼 _Postdoctoral researcher at [Technical University of Denmark (DTU)](https://www.dtu.dk/english)_
-- 💬 _Ask me about anything, I'm happy to help!_
 - ℹ️ _More about me in my personal [website](https://people.compute.dtu.dk/ffjla/)._
+- 💬 _Ask me about anything, I'm happy to help!_
 ## 📈 GitHub Activities and Metrics
 
 ![Metrics](/github-metrics.svg)
