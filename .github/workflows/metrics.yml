@@ -19,6 +19,7 @@ jobs:
           user: fdojurado
           template: classic
           base: activity, community, repositories
+          config_order: base.activity+community, base.repositories, languages, activity, wakatime, calendar
           base_indepth: yes
           config_timezone: Europe/Copenhagen
           plugin_activity: yes
