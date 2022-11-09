@@ -14,12 +14,12 @@
 
 ## 📫 You can reach me at:
 
-- :email: _my email in my website or [here](https://github.com/fdojurado/fdojurado/issues)._
+- :email: _My email in my website or [here](https://github.com/fdojurado/fdojurado/issues)._
 - :thought_balloon: Social networks:
 
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://linkedin.com/in/fdojurado)
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/fdojurado)
-[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" height="40em" align="center" alt="Follow me on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/fdojurado)
+     [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://linkedin.com/in/fdojurado)
+[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/fdojurado)
+[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px" align="center" alt="Follow me on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/fdojurado)
 
 
 <!--
