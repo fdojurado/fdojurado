@@ -14,7 +14,7 @@
 
 ## 📫 You can reach me at:
 
-- :email: _My email in my [website](https://people.compute.dtu.dk/ffjla/) or [here](https://github.com/fdojurado/fdojurado/issues)._
+- :email: _My email in my [website](https://fdojurado.github.io) or [here](https://github.com/fdojurado/fdojurado/issues)._
 - :thought_balloon: Social networks:
 
      [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://linkedin.com/in/fdojurado)
