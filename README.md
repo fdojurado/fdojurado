@@ -6,7 +6,7 @@
 ## 📖 About Me
 
 - 💼 _Postdoctoral researcher at [Technical University of Denmark (DTU)](https://www.dtu.dk/english)_
-- ℹ️ _More about me in my personal [website](https://people.compute.dtu.dk/ffjla/)._
+- ℹ️ _More about me in my personal [website](https://fdojurado.github.io)._
 - 💬 _Ask me about anything, I'm happy to help!_
 ## 📈 GitHub Activities and Metrics
 
